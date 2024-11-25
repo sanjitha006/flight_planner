@@ -8,5 +8,7 @@ Features
 The Flight Planner offers the following functionalities:
 
 Route with Fewest Flights and Earliest Arrival: Identifies the optimal route between two cities with the minimum number of flights, prioritizing the earliest arrival.
+
 Cheapest Route: Calculates the route with the lowest total fare, regardless of the number of flights.
+
 Fewest Flights and Cheapest Route: Finds the route with the minimum number of flights and the lowest cost among such routes.
