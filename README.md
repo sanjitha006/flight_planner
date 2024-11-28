@@ -1,4 +1,5 @@
-# flight_planner
+# flight_planner[COL106_A5.pdf](https://github.com/user-attachments/files/17946682/COL106_A5.pdf)
+
 efficient graph-based system using adjacency lists to model cities and flights, minimizing the number of flights, reducing costs, or balancing both factors using BFS and Dijkstra’s algorithm
 
 Details:
